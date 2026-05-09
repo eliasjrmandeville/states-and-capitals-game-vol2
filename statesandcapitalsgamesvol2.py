@@ -29,7 +29,7 @@ def main():
         
         # Selection structure to determine which capital to display to user
         if menuChoice == "A" or menuChoice == "a":
-            print("The capital of Pennsylvania is Hassisonburg")
+            print("The capital of Pennsylvania is Harrisburg")
         elif menuChoice =="B" or menuChoice == "b":
             print("The capital of South Carolia is Columbia")
         elif menuChoice == "C" or menuChoice == "c":
